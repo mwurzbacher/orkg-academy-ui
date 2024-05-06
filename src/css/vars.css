@@ -5,7 +5,7 @@
   --color-smoke-30: #eef6f2/*#fafafa*/;
   --color-smoke-50: #f5f5f5;
   --color-smoke-70: #f0f0f0;
-  --color-smoke-90: #eef6f2/*#e1e1e1*/;
+  --color-smoke-90: #f7f7f7/*#e1e1e1*/;
   --color-gray-10: #c1c1c1;
   --color-gray-30: #9c9c9c;
   --color-gray-40: #8e8e8e;
@@ -84,7 +84,7 @@
   --alt-heading-font-weight: var(--body-font-weight-bold);
   --section-divider-color: var(--panel-border-color);
   --link-font-color: #e86161/*#1565c0*/;
-  --link_hover-font-color: #104d92;
+  --link_hover-font-color: #e86161/*#104d92*/;
   --link_unresolved-font-color: var(--important-color);
   --abstract-background: var(--color-smoke-70);
   --abstract-font-color: var(--color-jet-20);
@@ -118,8 +118,8 @@
   --toc-line-height: 1.2;
   /* footer */
   --footer-line-height: var(--doc-line-height);
-  --footer-background: var(--color-smoke-90);
-  --footer-font-color: var(--color-gray-70);
+  --footer-background: var(--color-jet-80)/*var(--color-smoke-90)*/;
+  --footer-font-color: var(--color-white)/*var(--color-gray-70)*/;
   --footer-link-font-color: var(--color-jet-80);
   /* dimensions and positioning */
   --navbar-height: calc(63 / var(--rem-base) * 1rem);
