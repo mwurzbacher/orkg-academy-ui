@@ -12,6 +12,6 @@ If you want to simply use the ORKG Academy UI for your project you need to add t
 ----
 ui:
   bundle:
-    url: https://github.com/mwurzbacher/orkg-academy-ui/raw/main/build/ui-bundle.zip
+    url: https://gitlab.com/TIBHannover/orkg/orkg-academy-ui/-/raw/main/build/ui-bundle.zip?ref_type=heads
     snapshot: true
 ----
