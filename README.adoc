@@ -2,6 +2,8 @@
 
 This project is an adaptation of the https://gitlab.com/antora/antora-ui-default[Antora Default UI] for the https://academy.orkg.org/orkg-academy/main/index.html[ORKG Academy].
 
+You can find a guide about how to set up a UI project in the https://docs.antora.org/antora-ui-default/[Antora Default UI Documentation].
+
 == Use the ORKG Academy UI
 
 If you want to simply use the ORKG Academy UI for your project you need to add the following UI configuration to your playbook:
